@@ -26,9 +26,6 @@ The full generation script is provided in `generation_script.py` for reproducibi
 
 ## Our Paper
 
-> *Prompting vs Ensemble Architectures for Arabic–English Code-Switched Classification*
-> Donia Ali, Salma Haytham, Sandra George, Caroline Sabty
-> German International University, Cairo, Egypt
 > Ali, D., Haytham, S., George, S. and Sabty, C. (2026). Prompting vs Ensemble Architectures for Arabic English Code-Switched Classification. In Proceedings of the 15th International Conference on Data Science, Technology and Applications - Volume 1: DATA; ISBN 978-989-758-854-9; ISSN 2184-285X, SciTePress, pages 110-120. DOI: 10.5220/0015067000004091
 
 ## Cite Us
